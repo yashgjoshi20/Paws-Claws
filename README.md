@@ -7,21 +7,24 @@ The Webpage focusses on implementing simple Web Development Using HTML and CSS.
 This project is a template for penpals which is a static website.
 
 ## Snapshots:
-### 1-
-![](./Screenshots/Screenshot-1.PNG)
+###  Screenshot - 1 -
+![](./Screenshot/Screenshot-1.PNG)
 
-### 2-
-![](./Screenshots/Screenshot-2.PNG)
+###  Screenshot - 2 -
+![](./Screenshot/Screenshot-2.PNG)
 
-### 3-
-![](./Screenshots/Screenshot-3.PNG)
+###  Screenshot - 3 - 
+![](./Screenshot/Screenshot-3.PNG)
 
-### 3-
-![](./Screenshots/Screenshot-4.PNG)
+###  Screenshot - 4 -
+![](./Screenshot/Screenshot-4.PNG)
+
+### Screenshot - 5 -
+![](./Screenshot/Screenshot-5.PNG)
 
 ### Links
 
-- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Pen-Pals.git)
+- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Paws-Claws.git)
 - Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/Pen-Pals/)
 
 ### Built with
